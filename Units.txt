@@ -1,0 +1,6 @@
+	           Compute PerHour 	    Compute PerHour with high ram 
+CPU          0.07 		            0.13
+A100 GPU     Not Supported	      11.77
+L4 GPU	     Not Supported	      4.82
+T4 GPU       1.76			            1.84
+TPU v2       Not Supported	      1.76
